@@ -39,5 +39,6 @@
 	<classpathentry kind="lib" path="D:/Program Files/Tomcat 8.0/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files/Tomcat 8.0/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="D:/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Tomcat 8.0/lib/jstl-1.2.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
